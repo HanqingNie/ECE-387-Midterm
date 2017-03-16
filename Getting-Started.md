@@ -23,7 +23,7 @@
 
 ***
 
-### resistor* 8
+### resistor* 8 (200Ω * 4, 10KΩ * 4)
 
 ![resistor](http://sonlineshop.com/image/cache/data/resistor/2K_resistor-500x500.gif)
 
