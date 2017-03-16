@@ -98,10 +98,6 @@ void loop()
     ledValue3=0;
     score=score+2;
   }
-
-//detect if the user hit the wrong botton
-
-//  Serial.println(score);
   currentTime= millis();
   if(currentTime-startTime>2000)
   {
