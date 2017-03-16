@@ -6,4 +6,4 @@ The resistance value of the pressure sensor varies with the change of the force 
 
 ## How it works?
 
-Build the circuit below. We can detect if there has a force on it by measure the voltage 
+Build the circuit below. We can detect if there has a force on it by measure the voltage difference of two sides of R1.
