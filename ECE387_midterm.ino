@@ -20,7 +20,6 @@ unsigned long currentTime;
 unsigned long currentTime2;
 unsigned long startTime=0;
 
-int intervaltime=1000;
 
 //pins and variable for leds
 int led0=2;
